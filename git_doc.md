@@ -1,6 +1,7 @@
 It's my third lesson
     def git():
-        return 'Кирилл, спасибо за занятия!'
+        for i in range(1, 10):
+            return 'Кирилл, спасибо за занятия!'
 
 
 print(git())
